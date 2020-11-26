@@ -5,7 +5,7 @@
     "license": "MIT",
     "version": "1.0.1",
     "dependencies": [],
-    "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-updater.json",
+    "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-AMR-/main/updater.json",
     "src":{
       "src/modloader.js": "CacheModLoad",
       "src/categories.js": "CacheModLoad"
