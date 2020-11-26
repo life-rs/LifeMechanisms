@@ -1,5 +1,5 @@
 {
 	"Id": "AM_Bang",
-	"ParentId": "LifeMechs",
+	"ParentId": "CustomAmmo",
 	"Price": 440
 }

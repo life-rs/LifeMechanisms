@@ -1,5 +1,5 @@
 {
 	"Id": "AMR_ShortBar",
-	"ParentId": "LifeMechs",
+	"ParentId": "AMRParts",
 	"Price": 3258
 }

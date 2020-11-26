@@ -1,5 +1,5 @@
 {
 	"Id": "AMR_Receiver",
-	"ParentId": "LifeMechs",
+	"ParentId": "AMRParts",
 	"Price": 25150
 }

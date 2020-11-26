@@ -1,6 +1,6 @@
 {
     "Id": "AMRParts",
-    "ParentId": "Weapon-Mods",
+    "ParentId": "CustomAMR",
     "Icon": "/files/handbook/icon_weapons_assaultrifles.png",
     "Color": "",
     "Order": "1"
