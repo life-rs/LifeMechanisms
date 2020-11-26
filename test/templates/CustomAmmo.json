@@ -1,0 +1,7 @@
+{
+    "Id": "CustomAmmo",
+    "ParentId": "LifeMechs",
+    "Icon": "/files/handbook/icon_ammo.png",
+    "Color": "",
+    "Order": "5"
+}

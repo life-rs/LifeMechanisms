@@ -1,0 +1,10 @@
+{
+    "name": "LifeMechanisms",
+    "author": "life",
+    "version": "1.0.1",
+    "forceDowngrade": false,
+    "downloadUpdateUrl": "https://github.com/life-rs/life-/archive/1.1.2.zip",
+    "excludeFromUpdate": [
+        "README.md"
+    ]
+}
