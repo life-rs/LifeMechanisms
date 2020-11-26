@@ -1,0 +1,1 @@
+AMR standalone mod
