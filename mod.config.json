@@ -3,7 +3,7 @@
     "author": "life",
     "description": "Anti-Material Rifle",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "dependencies": [],
     "autoupdate": true,
     "checkUpdateUrl": "https://raw.githubusercontent.com/life-rs/life-AMR-/main/updater.json",
